@@ -1,0 +1,25 @@
+body {
+    font-family: 'Bangers', cursive;
+    height: 100vh;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #83fe17;
+    font-size: 70px;
+    font-family: 'Bangers', cursive;
+    letter-spacing:10px;
+
+}
+
+.User {
+    color:black;
+    font-size: 2.9rem;
+}
+
+.background {
+    background-image: repeat;
+}
